@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.push1 {
+    background-color: blueviolet;
+    color: white;
+}
+
+.push2 {
+    background-color: red;
+}
+
+.push1, .push2 {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif, sans-serif;
+}
